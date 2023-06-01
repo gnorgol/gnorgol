@@ -1,4 +1,5 @@
-<p>🎓 I hold a Master's degree in Video Game Development, where I had the opportunity to merge my love for creative storytelling and technical challenges. My academic journey has given me a solid foundation in the core tenets of game design and development.</p>
+<p>🎓 I have a Master's degree in Video Game Development. This provided me a deep understanding of game design and development, and equipped me with skills in various programming languages </p>
+
 
 <p>💻 I'm proficient in a range of programming languages including C#, C++, Java, JavaScript, and PHP. Whether it's coding game mechanics or designing web interfaces, I have the flexibility and knowledge to dive into any task.</p>
 
