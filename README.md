@@ -16,6 +16,7 @@
 <p>🎮 I have completed some other noteworthy projects during my studies:</p>
 <ol>
   <li><strong>Zuma Project</strong>: A fun and engaging game inspired by the classic Zuma, featuring a level editor that allows players to create their own custom levels. You can play it <a href="https://gnorgol.github.io/Zuma-Project/">here</a>.</li>
+    <li><strong>Mario Bros Arcade</strong>: A revival of the classic Mario Bros arcade game, with the ability for two local players (Player 1 on keyboard, Player 2 on a controller). You can play it <a href="https://gnorgol.github.io/ESIEE-IT-Mario-Bros-Arcade-Web/">here</a>.</li>
   <li><strong>TP Camera Project</strong>: An interactive camera-based game, demonstrating my skills in creating unique game mechanics. Check it out <a href="https://gnorgol.github.io/Tp-Cam-Web/">here</a>.</li>
 </ol>
 
