@@ -15,7 +15,7 @@
 <p>🧙‍♂️ A significant project that stands out is <strong>Escape Sorcery</strong>: a multiplayer augmented reality game that immerses players in a magical universe. This game requires players to solve puzzles and master spell casting mechanics in a team setting. It features real-world interaction with virtual objects through augmented reality technology, creating an immersive and captivating experience. The game trailer can be viewed <a href="https://www.youtube.com/watch?v=Iiueq3NH5Uc">here</a> and the game itself can be played <a href="https://esiee-it-gaming.itch.io/2023-escape-sorcery-esiee-it-gaming">here</a>.</p>
 <p>🎮 I have completed some other noteworthy projects during my studies:</p>
 <ol>
-  <li><strong>Zuma Project</strong>: A fun and engaging game inspired by the classic Zuma. You can play it <a href="https://gnorgol.github.io/Zuma-Project/">here</a>.</li>
+  <li><strong>Zuma Project</strong>: A fun and engaging game inspired by the classic Zuma, featuring a level editor that allows players to create their own custom levels. You can play it <a href="https://gnorgol.github.io/Zuma-Project/">here</a>.</li>
   <li><strong>TP Camera Project</strong>: An interactive camera-based game, demonstrating my skills in creating unique game mechanics. Check it out <a href="https://gnorgol.github.io/Tp-Cam-Web/">here</a>.</li>
 </ol>
 
