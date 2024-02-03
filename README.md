@@ -8,7 +8,9 @@
 
 <h2>🎮 Unreal Engine 5 Projects</h2>
 
-<p>A standout project developed using Unreal Engine 5 is <strong>Slasher Dungeon</strong>: an adventure in a "souls-like" world. In this game, players venture into a dark and menacing dungeon, populated by formidable paladins. The game features intelligent and dynamic enemies and exciting discoveries throughout the journey. Watch the gameplay <a href="https://www.youtube.com/watch?v=mmzsp2Chldw">here</a> and download the game <a href="https://mega.nz/file/lFZCCbzT#hu29r5Q5QZyIVWY0k5y6RYZ9-436fu-XoygpVVij9Yo">here</a>.</p>
+<p>My latest project developed using Unreal Engine 5 is <strong>Blaster Multiplayer</strong>: a free third-person multiplayer shooter now available on Steam. This game offers thrilling battles in Free for All and Team Death Match modes. Learn more about the game on its Steam page <a href="https://store.steampowered.com/app/2731180/Blaster_Multiplayer">here</a>.</p>
+
+<p>Another standout project developed using Unreal Engine 5 is <strong>Slasher Dungeon</strong>: an adventure in a "souls-like" world. In this game, players venture into a dark and menacing dungeon, populated by formidable paladins. The game features intelligent and dynamic enemies and exciting discoveries throughout the journey. Watch the gameplay <a href="https://www.youtube.com/watch?v=mmzsp2Chldw">here</a> and download the game <a href="https://mega.nz/file/lFZCCbzT#hu29r5Q5QZyIVWY0k5y6RYZ9-436fu-XoygpVVij9Yo">here</a>.</p>
 
 <h2>🎮 Unity Projects</h2>
 
