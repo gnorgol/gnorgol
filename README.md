@@ -1,29 +1,166 @@
-<h2>🎓 Education and Skills</h2>
+<p align="right">
+  <a href="https://github.com/gnorgol">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=gnorgol">
+  </a>
+</p>
 
-<p>🎓 I have a Master's degree in Video Game Development. This provided me a deep understanding of game design and development, and equipped me with skills in various programming languages </p>
+<div align="center">
 
-<p>💻 I'm proficient in a range of programming languages including C#, C++, Java, JavaScript, and PHP. Whether it's coding game mechanics or designing web interfaces, I have the flexibility and knowledge to dive into any task.</p>
+# 👋 Hi, I'm Guillaume Norgol
 
-<p>🕹️ My passion lies in creating immersive experiences through games. I've worked with both Unity and Unreal Engine, two of the most powerful game engines out there. These tools have been crucial in helping me bring my ideas to life.</p>
 
-<h2>🎮 Unreal Engine 5 Projects</h2>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guillaume.norgol.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/guillaume-norgol-51a7b5195/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2731180/Blaster_Multiplayer)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BurstRun)
 
-<p>My latest project developed using Unreal Engine 5 is <strong>Blaster Multiplayer</strong>: a free third-person multiplayer shooter now available on Steam. This game offers thrilling battles in Free for All and Team Death Match modes. Learn more about the game on its Steam page <a href="https://store.steampowered.com/app/2731180/Blaster_Multiplayer">here</a>.</p>
+</div>
 
-<p>Another standout project developed using Unreal Engine 5 is <strong>Slasher Dungeon</strong>: an adventure in a "souls-like" world. In this game, players venture into a dark and menacing dungeon, populated by formidable paladins. The game features intelligent and dynamic enemies and exciting discoveries throughout the journey. Watch the gameplay <a href="https://www.youtube.com/watch?v=mmzsp2Chldw">here</a> and download the game <a href="https://mega.nz/file/lFZCCbzT#hu29r5Q5QZyIVWY0k5y6RYZ9-436fu-XoygpVVij9Yo">here</a>.</p>
+---
 
-<h2>🎮 Unity Projects</h2>
+## 🧑‍💻 About Me
 
-<p>🧙‍♂️ A significant project that stands out is <strong>Escape Sorcery</strong>: a multiplayer augmented reality game that immerses players in a magical universe. This game requires players to solve puzzles and master spell casting mechanics in a team setting. It features real-world interaction with virtual objects through augmented reality technology, creating an immersive and captivating experience. The game trailer can be viewed <a href="https://www.youtube.com/watch?v=Iiueq3NH5Uc">here</a> and the game itself can be played <a href="https://esiee-it-gaming.itch.io/2023-escape-sorcery-esiee-it-gaming">here</a>.</p>
-<p>🎮 I have completed some other noteworthy projects during my studies:</p>
-<ol>
-  <li><strong>Zuma Project</strong>: A fun and engaging game inspired by the classic Zuma, featuring a level editor that allows players to create their own custom levels. You can play it <a href="https://gnorgol.github.io/Zuma-Project/">here</a>.</li>
-    <li><strong>Mario Bros Arcade</strong>: A revival of the classic Mario Bros arcade game, with the ability for two local players (Player 1 on keyboard, Player 2 on a controller). You can play it <a href="https://gnorgol.github.io/ESIEE-IT-Mario-Bros-Arcade-Web/">here</a>.</li>
-  <li><strong>TP Camera Project</strong>: An interactive camera-based game, demonstrating my skills in creating unique game mechanics. Check it out <a href="https://gnorgol.github.io/Tp-Cam-Web/">here</a>.</li>
-</ol>
+🎓 **Master's in Video Game Development** | Passionate about creating immersive digital experiences
 
-<h2>🔗 Connect With Me</h2>
+💼 **Full-Stack Developer** with expertise in game development, web applications, and creative programming
 
-<p>🔗 You can also find me on <a href="https://www.linkedin.com/in/guillaume-norgol-51a7b5195/">LinkedIn</a>, where I share more about my professional experiences and connect with fellow developers.</p>
+🚀 From multiplayer shooters to augmented reality experiences, I love pushing the boundaries of what's possible with code
 
-<p>🚀 I'm always looking for new challenges and learning opportunities. If you'd like to collaborate or just chat about game development, feel free to reach out to me!</p>
+🎯 **Always learning** new technologies and exploring innovative solutions to complex problems
+
+---
+
+## 🛠️ Tech Stack
+
+### **Programming Languages**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
+
+### **Game Development**
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+### **Web Technologies**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+### **Tools & Platforms**
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### **Specialized Skills**
+- 🎮 **Multiplayer Networking** (Steam API, Online Subsystems)
+- 🥽 **Augmented Reality** (Unity AR Foundation)
+- 🎨 **Game Design & Mechanics**
+- 🌐 **Web Development**
+- 🔧 **Level Design & Tools Development**
+
+---
+
+## 🎮 Featured Projects
+
+### 🔫 **Blaster Multiplayer** - *Unreal Engine 5*
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Steam-000000?style=flat-square&logo=steam&logoColor=white">
+  <img src="https://img.shields.io/badge/Engine-Unreal%20Engine%205-313131?style=flat-square&logo=unreal-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/Multiplayer-Online-4CAF50?style=flat-square">
+</p>
+
+**Free third-person multiplayer shooter** featuring intense PvP battles in Free for All and Team Deathmatch modes. Built with advanced networking, Steam integration, and polished gameplay mechanics.
+
+🎯 **Key Features:** Steam multiplayer integration, competitive gameplay modes, optimized networking
+
+**[🎮 Play on Steam](https://store.steampowered.com/app/2731180/Blaster_Multiplayer)** | **[📂 Source Code](https://github.com/gnorgol/Blaster)**
+
+---
+
+### 🧙‍♂️ **Escape Sorcery** - *Unity AR*
+<p align="center">
+  <img src="https://img.shields.io/badge/Technology-Augmented%20Reality-FF6B35?style=flat-square">
+  <img src="https://img.shields.io/badge/Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Multiplayer-Cooperative-4CAF50?style=flat-square">
+</p>
+
+**Multiplayer augmented reality puzzle game** that blends magical storytelling with innovative AR technology. Players collaborate to solve puzzles and master spell-casting mechanics in a shared magical universe.
+
+🎯 **Key Features:** Real-world AR interaction, cooperative multiplayer, innovative spell mechanics
+
+**[📺 Watch Trailer](https://www.youtube.com/watch?v=Iiueq3NH5Uc)** | **[🎮 Play Game](https://esiee-it-gaming.itch.io/2023-escape-sorcery-esiee-it-gaming)** | **[📄 Project Details](https://guillaume.norgol.fr/Projects/Escape%20Sorcery.php)**
+
+---
+
+### 🌐 **Additional Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 Zuma Project** - *Unity*
+- Classic Zuma-inspired puzzle game
+- Custom level editor
+- Interactive gameplay mechanics
+- **[🎮 Play](https://gnorgol.github.io/Zuma-Project/)**
+
+</td>
+<td width="50%">
+
+**🎄 Calendrier de l'Avent** - *PHP/Web*
+- Interactive Advent Calendar
+- Web-based mini-games
+- Creative holiday experience
+- **[🎮 Experience](https://guillaume.norgol.fr/CalendrierAvent/index.php)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🍄 Mario Bros Arcade** - *Unity*
+- Classic arcade game revival
+- Local multiplayer support
+- Retro gameplay mechanics
+- **[🎮 Play](https://gnorgol.github.io/ESIEE-IT-Mario-Bros-Arcade-Web/)**
+
+</td>
+<td width="50%">
+
+**📷 TP Camera Project** - *Unity*
+- Interactive camera-based mechanics
+- Innovative gameplay concepts
+- Technical experimentation
+- **[🎮 Try it](https://gnorgol.github.io/Tp-Cam-Web/)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnorgol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnorgol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+🔗 **Find me on [LinkedIn](https://www.linkedin.com/in/guillaume-norgol-51a7b5195/)** - I love discussing game development, tech trends, and sharing professional experiences
+
+💬 **Always up for a chat about:**
+- Game development challenges and solutions
+- New technologies and frameworks
+- Collaboration opportunities
+- Creative programming projects
+
+📧 **Feel free to reach out** - Whether you want to collaborate on a project, discuss opportunities, or just talk about games and code!
+
